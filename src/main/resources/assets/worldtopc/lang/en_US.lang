@@ -1,0 +1,11 @@
+chat.alphaae.print=输出： %s
+
+chat.alphaae.getplayer=玩家：%s 记录X：%s Y：%s Z：%s
+chat.alphaae.Sopt0=基准点设置为 X：%s Y：%s Z：%s
+chat.alphaae.filechoosercancel=文件选择操作已取消
+
+itemGroup.alphaaedeemo1=alphaAE物品栏
+
+tile.block1000ae.name=block1 ae
+
+item.worldtopc.name=选择棒

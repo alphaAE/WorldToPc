@@ -2,7 +2,7 @@
 
 存档移植工具 worldtopc 测试版0.0.7
 
-测试版期间 BUG反馈请与我联系  email:alphaae@foxmail.com     qq:1226123914
+测试版期间 BUG反馈请与我联系
 
 使用说明
 在PE端使用启动器等工具加载"WorldToPc.js"脚本

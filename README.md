@@ -2,8 +2,6 @@
 
 存档移植工具 worldtopc 测试版0.0.7
 
-测试版期间 BUG反馈请与我联系
-
 使用说明
 在PE端使用启动器等工具加载"WorldToPc.js"脚本
 在PC Minecraft1.8.9端使用forge客户端加载"WorldToPc.jar"Mod文件  (目前PC仅在1.8.9进行测试，本体成熟后会加入其它版本)
